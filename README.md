@@ -1,2 +1,4 @@
 # project1
-a simple html &amp; css layout
+A simple html &amp; css layout
+
+https://subrinasultana.github.io/project1/
