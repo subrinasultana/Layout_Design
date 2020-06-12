@@ -1,0 +1,75 @@
+/*header*/
+.header{
+	text-align: center;
+	background-color: #009688;
+	color: #fff;
+	padding: 30px 0px;
+}
+.header input[type=email],.header button{
+	outline: none;
+	padding: 10px 20px;
+}
+.header button{
+	background-color: #1a5a55;
+	color: #fff;
+	cursor: pointer;
+	border-color: #1a5a55;
+}
+/*wrapper*/
+.wrapper{
+	overflow: hidden;
+	background-color: #eee;
+}
+/*blog*/
+.blog{
+	width: 60%;
+	float: left;
+	text-align: center;
+}
+.blog img{
+	width: 100%;
+}
+.blog p{
+	text-align: justify;
+}
+/*contact*/
+.contact{
+	width: 35%;
+	float: right;
+	text-align: center;
+}
+.contact input[type=email],.contact input[type=text],.contact textarea,.contact input[type=submit]{
+	width: 350px;
+	padding: 12px 20px;
+  	margin: 8px 0;
+}
+.contact input[type=submit]{
+	background-color: #E91E63;
+	color: #fff;
+	border-color: #ff69b4ba;
+	cursor: pointer;
+}
+/*ifrane part*/
+.container{
+	overflow: hidden;
+	background-color: #ccc;
+	padding: 50px 0px;
+	text-align: center;
+}
+.box1,.box2,.box3{
+	width: 30%;
+	float: left;
+	margin-left: 35px;
+}
+iframe{
+	width: 100%;
+	height: 315px;
+	border: 2px solid gray;
+}
+/*footer*/
+.footer{
+	background-color: #009688;
+	color: #fff;
+	padding:20px;
+	text-align: center;
+}
